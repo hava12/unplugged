@@ -1,4 +1,4 @@
-# magichour
+# vue
 
 ## Project setup
 ```
